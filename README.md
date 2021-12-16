@@ -1,3 +1,4 @@
 # mine-cluster
-geo-location clustering using kmeans algorithm
+
+##geo-location clustering using kmeans algorithm
 
